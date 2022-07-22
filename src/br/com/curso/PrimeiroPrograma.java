@@ -11,6 +11,7 @@ public class PrimeiroPrograma {
         System.out.println(gato);
 
         Livro livro = new Livro("O Robbit", 300);
+        System.out.println(livro);
 
     }
 }
